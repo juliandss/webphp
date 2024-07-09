@@ -11,5 +11,6 @@
         echo "Hello World";
         ?>
     </h1>
+<?php phpinfo();?>
 </body>
 </html>
